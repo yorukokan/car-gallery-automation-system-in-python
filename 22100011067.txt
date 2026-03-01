@@ -1,0 +1,24 @@
+ID    :1
+Marka : Renault
+Model : Symbol
+Renk  : Beyaz
+Yil   : 2010
+Fiyat : 400000
+
+--------------------------
+ID    :2
+Marka : Nissan
+Model : Qasqai
+Renk  : Beyaz
+Yil   : 2012
+Fiyat : 750000
+
+--------------------------
+ID    :3
+Marka : Renault
+Model : Clio
+Renk  : Mavi
+Yil   : 2020
+Fiyat : 100000
+
+--------------------------
